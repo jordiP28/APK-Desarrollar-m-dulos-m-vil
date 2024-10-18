@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "755525199298",
+    "project_id": "evo8-e18d0",
+    "storage_bucket": "evo8-e18d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755525199298:android:70ea35f241251ad6e3625b",
+        "android_client_info": {
+          "package_name": "com.example.ev8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBUEtsJg8_mdwtUbb-6FM6SwZYAfweWhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
